@@ -1,0 +1,1 @@
+left=-1;right=1;bottom=-1;top=1;h=[1 1];degree_P=2;
